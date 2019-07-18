@@ -1,2 +1,1 @@
-# machune-learning
 print("hello")
